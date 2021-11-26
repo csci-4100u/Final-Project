@@ -53,3 +53,13 @@ Please join the virtual class link on Google meet on the day of the presentation
 | Group 23     | December 8, 2021 (03:50 PM – 04:20 PM EST)
 | Group 24     | December 8, 2021 (04:25 PM – 04:55 PM EST)
 | Group 25     | December 8, 2021 (05:00 PM – 05:30 PM EST)
+
+### Rubric
+Your Projects will be graded based on the following rubric:
+
+|    | Excellent (7 - 10) | Average (4-6.9) | Poor (<4)
+| ----------- | ------------------------------ |------------------------ |------------------|
+| **Project Completion (10)**     | The project was completed without any errors and output is as expected. Fulfills all of the requirements committed in the proposal. | The project was completed with few errors. Fulfills some of the requirements for the project. | The project is incomplete. Does not fulfill all/most of the requirements.
+| **Team Work, UI and Best Practices (10)**    | The project is well prepared and presented by all the members. User Interface is appealing and best practices have been followed for designing the app. | The project is averagely prepared and presented by the members. User Interface is not very appealing and best practices have not been followed for designing the app. | The project is poorly prepared and presented. User Interface is poorly designed and best practices have not been followed. Code is all over the place.
+| **Questions / Answers (10)**    | The student has presented his/her part of the project very well. Student answered all / most of the questions. | The student has averagely presented his/her part of the project. Student has answered few of the questions.| The student has poorly presented the project. Student has not answered any / most of the questions.
+---------------------------------------------------------
